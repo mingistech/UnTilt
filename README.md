@@ -2,6 +2,8 @@
 
 UnTilt is a simple Mac app that lets you straighten photos by dropping in an image, adjusting the angle, and saving an aligned copy beside the original.
 
+![UnTilt photo straightening app](docs/UnTilt-screenshot.png)
+
 ## Download
 
 Download the ZIP from [Releases](https://github.com/mingistech/UnTilt/releases/latest), unzip it, and move UnTilt to Applications.
