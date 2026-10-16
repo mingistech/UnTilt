@@ -18,6 +18,10 @@ Requires macOS 27 or later.
 
 The copy is saved as `filename_UnTilted.ext`. Repeat exports receive numbered names, and the original stays untouched. JPEG, PNG, HEIC, and TIFF are supported. Export preserves the file format and uses the source pixels for the cropped result; original photo metadata is not retained.
 
+## Updates
+
+Choose **UnTilt → Check for Updates…** to check GitHub manually. While the app is running and active, it also checks if a week has passed since the last successful check. When a newer release is available, UnTilt offers to open its GitHub download page. Updates are installed manually.
+
 ## Build
 
 Open `UnTilt.xcodeproj` in Xcode with the macOS 27 SDK, select your signing team, and run the UnTilt scheme. The app icon is the included Icon Composer document, `UnTilt.icon`.
