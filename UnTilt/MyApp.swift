@@ -2,8 +2,9 @@ import SwiftUI
 
 @main struct MyApp: App {
     var body: some Scene {
-        WindowGroup {
+        WindowGroup("UnTilt") {
             ContentView()
         }
+        .defaultSize(width: 900, height: 700)
     }
 }
